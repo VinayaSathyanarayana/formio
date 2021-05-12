@@ -48,7 +48,7 @@
     "mongoose": "^5.2.5",
     "mssql": "^4.1.0",
     "mysql": "^2.16.0",
-    "nodemailer": "^4.6.7",
+    "nodemailer": "^6.4.16",
     "nodemailer-mailgun-transport": "^1.4.0",
     "nodemailer-mandrill-transport": "^1.2.0",
     "nodemailer-sendgrid-transport": "^0.2.0",
